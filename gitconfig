@@ -49,3 +49,7 @@
 [user]
 	email = aoife.mcdaid@gmail.com
 	name = Aoife McDaid
+[filter "lfs"]
+	clean = git-lfs clean %f
+	smudge = git-lfs smudge %f
+	required = true
