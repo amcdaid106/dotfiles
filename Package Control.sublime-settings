@@ -11,11 +11,14 @@
 		"BracketHighlighter",
 		"DocBlockr",
 		"Emmet",
+		"ERB Snippets",
 		"Git",
 		"GitGutter",
 		"JSX",
 		"Package Control",
 		"Ruby on Rails snippets",
-		"SCSS"
+		"SCSS",
+		"SyncedSideBar",
+		"TypeScript"
 	]
 }
